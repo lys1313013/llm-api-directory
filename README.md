@@ -12,4 +12,4 @@
 | MiniMax | `https://api.minimaxi.com/v1` | [查看](https://platform.minimaxi.com/docs/api-reference/api-overview) | [点击跳转](https://platform.minimaxi.com/user-center/basic-information/interface-key) | [查看](https://platform.minimaxi.com/docs/api-reference/text-openai-api) |
 | 魔搭 | `https://api-inference.modelscope.cn` | - | [点击跳转](https://modelscope.cn/my/access/token) | - |
 | Kimi | `https://api.moonshot.cn/v` | [查看](https://platform.moonshot.cn/docs/introduction#%E6%A8%A1%E5%9E%8B%E5%88%97%E8%A1%A8) | [点击跳转](https://platform.moonshot.cn/console/api-keys) | [查看](https://platform.moonshot.cn/docs/introduction#%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B-moonshot-v1) |
-
+| Starveri | `https://api.starveri.net/v1` | [查看](https://api.starveri.net/models) | [点击跳转](https://api.starveri.net/credits) | [查看](https://api.starveri.net/docs) |
